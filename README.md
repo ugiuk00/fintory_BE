@@ -24,10 +24,10 @@
 - 논블로킹 비동기 처리 서버 리팩토링 경험
 
 ## :bicyclist: 서비스 UI
-<img width="240" height="500" alt="스크린샷 2025-12-05 오전 8 53 06" src="https://github.com/user-attachments/assets/4cd7883a-9ea6-40d9-87e0-b2a29566eab3" />
-<img width="240" height="500" alt="스크린샷 2025-12-05 오전 8 53 40" src="https://github.com/user-attachments/assets/5e70f046-29ca-47e1-827d-8e788f99d04f" />
-<img width="240" height="500" alt="스크린샷 2025-12-05 오후 4 50 25" src="https://github.com/user-attachments/assets/3fdd1181-dab9-433e-b610-c85ff1372f64" />
-<img width="240" height="500" alt="스크린샷 2025-12-05 오전 10 23 35" src="https://github.com/user-attachments/assets/d12ab134-c790-41ac-9295-a08bfae8ec08" />
+<img width="160" height="330" alt="스크린샷 2025-12-05 오전 8 53 06" src="https://github.com/user-attachments/assets/4cd7883a-9ea6-40d9-87e0-b2a29566eab3" />
+<img width="160" height="330" alt="스크린샷 2025-12-05 오전 8 53 40" src="https://github.com/user-attachments/assets/5e70f046-29ca-47e1-827d-8e788f99d04f" />
+<img width="160" height="330" alt="스크린샷 2025-12-05 오후 4 50 25" src="https://github.com/user-attachments/assets/3fdd1181-dab9-433e-b610-c85ff1372f64" />
+<img width="160" height="330" alt="스크린샷 2025-12-05 오전 10 23 35" src="https://github.com/user-attachments/assets/d12ab134-c790-41ac-9295-a08bfae8ec08" />
 
 ## :bicyclist: 프로젝트를 통해 개선한 문제들
 - [개선전 데이터 통신 구조(Stomp Websocket)](https://velog.io/@ugiuk00/Fintory-%EC%B4%88%EA%B8%B0-%EC%8B%A4%EC%8B%9C%EA%B0%84-%ED%86%B5%EC%8B%A0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-Spring-WebSocket-STOMP-SimpleBroker-%ED%8A%B8%EB%9E%98%ED%94%BD-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%8F-%ED%95%9C%EA%B3%84)
